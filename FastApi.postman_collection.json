@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "cef8889b-58aa-499d-a468-a761287ae177",
+		"name": "FastApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25587913"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
